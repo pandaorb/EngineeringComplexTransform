@@ -1,0 +1,13 @@
+void drawCampus(void);
+void drawShelby(void);
+void drawWiggins(void);
+void drawWoltosz(void);
+void drawTextile(void);
+void drawShops(void);
+void drawL(void);
+void drawRamsay(void);
+void drawWilmore(void);
+void drawRoss(void);
+void drawHarbert(void);
+void drawDavis(void);
+void drawBroun(void);
